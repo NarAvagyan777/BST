@@ -1,0 +1,14 @@
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.AssemblyInfoInputs.cache
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.AssemblyInfo.cs
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.csproj.CoreCompileInputs.cache
+/home/narek/Desktop/Algoritm/BST/bin/Debug/net8.0/BST
+/home/narek/Desktop/Algoritm/BST/bin/Debug/net8.0/BST.deps.json
+/home/narek/Desktop/Algoritm/BST/bin/Debug/net8.0/BST.runtimeconfig.json
+/home/narek/Desktop/Algoritm/BST/bin/Debug/net8.0/BST.dll
+/home/narek/Desktop/Algoritm/BST/bin/Debug/net8.0/BST.pdb
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.dll
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/refint/BST.dll
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.pdb
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/BST.genruntimeconfig.cache
+/home/narek/Desktop/Algoritm/BST/obj/Debug/net8.0/ref/BST.dll
